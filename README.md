@@ -1,7 +1,5 @@
 # ☁️ Multi-Cloud FinOps & Cost Arbitrage Analytics Engine
 
-# ☁️ Multi-Cloud FinOps & Cost Arbitrage Analytics Engine
-
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
