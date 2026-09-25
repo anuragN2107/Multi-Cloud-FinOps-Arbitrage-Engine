@@ -90,10 +90,10 @@ Modern enterprises deploy workloads across multiple public clouds to mitigate do
                        +---------------------------------------+
 
 An enterprise-grade financial operations (FinOps) platform that standardizes multi-cloud billing telemetry across AWS, Microsoft Azure, and Google Cloud Platform (GCP). The engine leverages unsupervised machine learning to detect underutilized "zombie" infrastructure, applies time-series regression to project short-term burn rates, and provides an executive Power BI dashboard with dynamic cross-cloud migration arbitrage modeling.
-
+```
 ---
 
-## 📑 Table of Contents
+### 📑 Table of Contents
 - [Business Problem](#-business-problem)
 - [Project Objectives](#-project-objectives)
 - [System Architecture](#-system-architecture)
@@ -182,6 +182,7 @@ pip install pandas numpy scikit-learn sqlalchemy pyodbc
 ```
 ---
 ### 📦 Multi-Cloud-FinOps-Arbitrage-Engine
+
  ┣ 📜 FinOPs_SQL.sql            # Creating Databases and verify the tables and row counts.
  ┣ 📜 data_generator.py         # Synthesizes 325,000+ realistic raw multi-cloud billing records
  ┣ 📜 etl_pipeline.py           # Normalization engine mapping AWS, Azure, & GCP taxonomies
