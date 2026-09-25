@@ -194,6 +194,7 @@ pip install pandas numpy scikit-learn sqlalchemy pyodbc
  ┣ 📜 cost_forecast.csv         # Model output: 7-day forward-looking predictive spend projections
  ┣ 📜 FinOps_Dashboard.pbix     # Power BI data model, DAX library, and interactive executive interface
  ┗ 📜 README.md                 # Complete system documentation
+```
 ---
 ## 🚀 Future Scope
 
