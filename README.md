@@ -181,9 +181,11 @@ Modern enterprises deploy workloads across multiple public clouds to mitigate do
 pip install pandas numpy scikit-learn sqlalchemy pyodbc
 ```
 ---
-### 📦 Multi-Cloud-FinOps-Arbitrage-Engine
+## 📂 Repository Structure
 
- ┣ 📜 FinOPs_SQL.sql            # Creating Databases and verify the tables and row counts.
+```text
+📦 Multi-Cloud-FinOps-Arbitrage-Engine
+ ┣ 📜 FinOps_SQL.sql            # Creating Databases and verify the tables and row counts.
  ┣ 📜 data_generator.py         # Synthesizes 325,000+ realistic raw multi-cloud billing records
  ┣ 📜 etl_pipeline.py           # Normalization engine mapping AWS, Azure, & GCP taxonomies
  ┣ 📜 ml_engine.py              # ML workflows for zombie asset detection & time-series spend forecasting
@@ -192,7 +194,6 @@ pip install pandas numpy scikit-learn sqlalchemy pyodbc
  ┣ 📜 cost_forecast.csv         # Model output: 7-day forward-looking predictive spend projections
  ┣ 📜 FinOps_Dashboard.pbix     # Power BI data model, DAX library, and interactive executive interface
  ┗ 📜 README.md                 # Complete system documentation
-
 ---
 ## 🚀 Future Scope
 
