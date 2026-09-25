@@ -19,7 +19,6 @@ An enterprise-grade financial operations (FinOps) platform that standardizes mul
 - [Data Pipeline & Machine Learning](#-data-pipeline--machine-learning)
 - [Executive Power BI Dashboard](#-executive-power-bi-dashboard)
 - [Future Scope](#-future-scope)
-- [Author](#-author)
 
 ---
 
